@@ -12,3 +12,4 @@ Polars is designed for high-performance data manipulation and is particularly us
 | **Community & Ecosystem** | Smaller user base, benefits from Rust ecosystem | Large and active user community      |
 
 ![Pandas Result](https://github.com/TiwariLaxuu/Pandas_VS_Polars/blob/main/pandas_result.png)
+![Polar Result](https://github.com/TiwariLaxuu/Pandas_VS_Polars/blob/main/polar_result.png)
