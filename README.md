@@ -13,3 +13,7 @@ Polars is designed for high-performance data manipulation and is particularly us
 
 ![Pandas Result](https://github.com/TiwariLaxuu/Pandas_VS_Polars/blob/main/pandas_result.png)
 ![Polar Result](https://github.com/TiwariLaxuu/Pandas_VS_Polars/blob/main/polar_result.png)
+
+Reference 
+![Reference 1](https://pandas.pydata.org/)
+![Reference 2](https://www.pola.rs/)
