@@ -10,3 +10,5 @@ Polars is designed for high-performance data manipulation and is particularly us
 | **API Design**           | Performance-focused API with Pandas compatibility | Comprehensive and user-friendly API |
 | **Integration**          | Growing integration in Python       | Well-integrated into Python ecosystem |
 | **Community & Ecosystem** | Smaller user base, benefits from Rust ecosystem | Large and active user community      |
+
+![Pandas Result][https://github.com/TiwariLaxuu/Pandas_VS_Polars/blob/main/pandas_result.png]
