@@ -14,6 +14,15 @@ Polars is designed for high-performance data manipulation and is particularly us
 ![Pandas Result](https://github.com/TiwariLaxuu/Pandas_VS_Polars/blob/main/pandas_result.png)
 ![Polar Result](https://github.com/TiwariLaxuu/Pandas_VS_Polars/blob/main/polar_result.png)
 
+
+Polars is also very lightweight. It comes with zero required dependencies, and this shows in the import times:
+
+polars: 70ms
+numpy: 104ms
+pandas: 520ms
+
+In the TPCH benchmarks polars is orders of magnitudes faster than pandas, dask, modin and vaex on full queries (including IO).
+
 **References** 
 
 ![Reference 1](https://pandas.pydata.org/)
